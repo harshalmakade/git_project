@@ -1,1 +1,2 @@
 Hi this is start of git tool.
+New line has been added.
